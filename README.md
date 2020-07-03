@@ -1,0 +1,2 @@
+# ads-for-block
+ads
